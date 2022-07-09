@@ -1,4 +1,4 @@
-## Welcome to my personal website!
+## Hello World! 👋
 ## Check it out at https://antaresphi.github.io/
 
 
